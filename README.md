@@ -1,4 +1,4 @@
-# Horse-Colic-data
+# Horse-Colic-data(2019년 2학기)
 horse colic
 
 UCI의 horse colic 데이터셋을 분석한 것입니다.
